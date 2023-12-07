@@ -1,7 +1,7 @@
-<h1 align="center">Hola 👋, soy Luis Felipe Brito</h1>
-<h3 align="center">Un estudiante del CFGS DAW en el insituto Baix Camp</h3>
+<h1 align="center">Hi👋, I'm Luis Felipe Brito</h1>
+<h3 align="center">Junior developer</h3>
 
-- 🌱 I’m currently learning **Java, JavaScript, PHP, Python,**
+- 🌱 I’m currently learning **Java, JavaScript, React.js, PHP, Python,**
 
 
 <h3 align="left">Languages and Tools:</h3>
